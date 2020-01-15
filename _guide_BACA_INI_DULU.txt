@@ -7,7 +7,7 @@
 3. Open the Solution in C:/opencv_build-3.1.0, Build Solution x64 for Debug and Release version. Build also for 
    in window Solution Explorer (right side) folder 'CMakeTargets'--> INSTALL . Build for Debug and Release version. 
    
-4. Then we are ready to use C:/opencv_build-3.1.0/install  as Folder Reference. Don't forget to Add the 'bin' PATH
+4. Then we are ready to use C:/opencv_build-3.1.0/install  as Reference Folder. Don't forget to Add the 'bin' PATH
    C:/opencv_build-3.1.0/install/bin  in Windows Environment Variable 
 
 5. Restart the Computer
