@@ -1,0 +1,94 @@
+﻿  jackylib.cpp
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\jackylib.cpp(19,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\jackylib.cpp(23,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MainForm.cpp
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(146,66): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(146,33): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(147,72): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(147,51): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(155,67): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(164,90): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(164,46): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(173,111): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(173,56): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(181,119): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.h(181,60): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.cpp(7,15): warning C4551: function call missing argument list
+C:\cpp\projects\OpenCV_faceRecognition\OpenCV_faceRecognition\MainForm.cpp(8,15): warning C4551: function call missing argument list
+  Generating Code...
+C:\opencv_build-3.1.0\install\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\fast_math.hpp(96): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\fast_math.hpp(97): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+C:\opencv_build-3.1.0\install\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  OpenCV_faceRecognition.vcxproj -> C:\cpp\projects\OpenCV_faceRecognition\x64\Release\OpenCV_faceRecognition.exe
